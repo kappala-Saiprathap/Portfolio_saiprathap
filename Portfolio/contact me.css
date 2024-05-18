@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: black;
+}
+.header{
+    
+    top:0px;
+    left:0px;
+    width:100%;
+    padding: 20px 10px;
+    background: transparent;
+}
+.logo{
+    font-size: 35px;
+    color:violet;
+    text-decoration: none;
+    font-weight: 500;
+    font-family: calc();
+    margin-left: 50px;
+}
+.navbar{
+    font-size:25px ;
+    color:white ;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-left: 250px;
+}
+.navbar a:hover,
+.navbar a.active {
+    color: aqua;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+.b{
+    font-size: 50px;
+    color: white;
+    margin-top: 150px;
+    margin-left: 200px;
+
+}
+.c{
+    font-size: 23px;
+    color: brown;
+    margin-top: -26px;
+    margin-left: 300px;
+}
+.d{
+    font-size: 35px;
+    color: rgb(61, 141, 211);
+    margin-left: 200px;
+}
+.e{
+    font-size: 25px;
+    color: aliceblue;
+    margin-left: 200px;
+}
+.f{
+    font-size: 25px;
+    
+    color: aliceblue;
+    margin-left: 200px;
+}
+.ima{
+    margin-top: -200px;
+    margin-left: 900px;
+}
+button{
+    border: solid 1px;
+    width: 300px;
+    height: 60px;
+    /* background: black;
+    color: white;
+    font-size: 15px; */
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.input{
+    background-color: black;
+     /* color: white; */
+     font-size: 25px;
+     text-align: center;
+ } 
+ 

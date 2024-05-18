@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: black;
+}
+.header{
+    /* position: fixed;*/
+    top:0px; 
+    left:0px;
+    width:100%;
+    padding: 20px 10px;
+    background: transparent;
+    
+    
+}
+.logo{
+    font-size: 35px;
+    color: aquamarine;
+    text-decoration: none;
+    font-weight: 500;
+    font-family: calc();
+    margin-left: 50px;
+}
+.navbar{
+    font-size:25px ;
+    color:pink ;
+    text-decoration: none;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-left: 250px;
+}
+.navbar a:hover,
+.navbar a.active {
+    color: aqua;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+img{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.a{
+    font-size: 50px;
+    color: aquamarine;
+    margin-left: 500px;
+    margin-top: -450px;
+}
+p{
+    font-size: 20px;
+    color: white;
+    margin-left: 500px;
+
+}
+.s{
+    font-size: 50px;
+    color: aquamarine;
+    margin-left: 500px;
+    margin-top: 80px;
+}
+/* .e{
+    font-size: 30px;
+    color: aliceblue;
+    margin-left: 850px;
+    margin-top: -240px;
+} */
+
+.f{
+    margin-left:500px ;
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+    
+}
+.g{
+    margin-left:500px ;
+    font-size: 20px;
+    color: white;
+    margin-top:5px
+}
+.h{
+    margin-left:500px ;
+    font-size: 20px;
+    color: white;
+    margin-top:5px
+
+}
+.i{
+    margin-left:500px ;
+    font-size: 20px;
+    color: white;
+    margin-top:5px
+
+}
+.j{
+    margin-left:500px ;
+    font-size: 20px;
+    color: white;
+    margin-top:5px
+}

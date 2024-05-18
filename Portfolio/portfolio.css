@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: black;
+}
+.header{
+    
+    top:0px;
+    left:0px;
+    width:100%;
+    padding: 20px 10px;
+    background: transparent;
+}
+.logo{
+    font-size: 35px;
+    color: palevioletred;
+    text-decoration: none;
+    font-weight: 500;
+    font-family: calc();
+    margin-left: 50px;
+}
+.navbar{
+    font-size:25px ;
+    color:white ;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-left: 250px;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+.navbar a:hover,
+.navbar a.active {
+    color: aqua;
+}
+.img{
+    margin-top: 200px;
+    margin-left: 20px;
+}
+.imga{
+    margin-top: -400px;
+    margin-left: 500px;
+}
+.imgb{
+    margin-top: -400px;
+    margin-left: 1000px;
+
+}
+.imgc{
+     margin-top: 100px;
+     margin-left: 20px;
+    
+}
+.imgd{
+    margin-top: -400px;
+    margin-left: 500px;
+}
+.imge{
+    margin-top: -400px;
+    margin-left: 1000px;
+}
+.imgf{
+    margin-top: 100px;
+    margin-left: 430px;
+}
